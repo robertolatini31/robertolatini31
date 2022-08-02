@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋, I'm Roberto</h1>
+<h1 align="left">Hi, I'm Roberto 👋</h1>
 <h3 align="left">Jr Full Stack Web Developer</h3>
 
 
