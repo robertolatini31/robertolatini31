@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertolatini31&show_icons=true&locale=en&layout=compact" alt="robertolatini" />
 </p>
-![Sparkline](https://stars.medv.io/Naereen/badges.svg)
+
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertolatini31&show_icons=true&locale=en" alt="robertolatini" />
 </p>
